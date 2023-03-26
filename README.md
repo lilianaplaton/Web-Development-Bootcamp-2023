@@ -1,4 +1,4 @@
-# The Complete 2023 Web Development Bootcamp with Dr. Angela Yu, Udemy
+# The Complete 2023 Web Development Bootcamp (Dr. Angela Yu, Udemy)
 
 Throughout this comprehensive course, I will cover a massive amount of tools and technologies, including:
 
