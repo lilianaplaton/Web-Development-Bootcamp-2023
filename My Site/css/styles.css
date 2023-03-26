@@ -158,3 +158,20 @@ a:hover {
     color: #EAF6F6;
     padding: 20px 0;
 }
+
+
+/*  768px */
+
+@media(max-width:768px) {
+    .mountain {
+        width: 70%;
+    }
+    .top-cloud {
+        right: 100px;
+        top: 80px;
+    }
+    .bottom-cloud {
+        left: 80px;
+        bottom: 580px;
+    }
+}
