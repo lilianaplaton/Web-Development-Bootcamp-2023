@@ -16,11 +16,35 @@ h1 {
     font-family: 'Montserrat', sans-serif;
     font-size: 3rem;
     line-height: 1.3;
-    font-weight: 700;
+    font-weight: bolder;
+}
+
+
+/* Navigation Bar */
+
+.navbar {
+    padding: 0 0 4.5rem;
 }
 
 .navbar-brand {
     font-family: "Ubuntu";
     font-size: 2.5rem;
     font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+}
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+.title-image {
+    width: 60%;
+    transform: rotate(25deg);
 }
